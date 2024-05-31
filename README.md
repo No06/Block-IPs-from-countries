@@ -1,4 +1,4 @@
-# Linux VPS一键屏蔽指定国家所有的IP访问
+# Linux VPS一键允许指定的国家或IP段所有的IP访问
 本脚本适用于`CentOS`、`Debian`、`Ubuntu`等常用系统。
 
 使用`root`运行以下命令：
